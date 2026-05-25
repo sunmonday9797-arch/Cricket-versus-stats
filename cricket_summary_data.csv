@@ -1,0 +1,367 @@
+Date,Batsman,Bowler,Runs,Balls,Wickets,Dismissal,Boundaries,Match No
+10/22/2025,Akash,Rahul,0,1,1,OHOB,0,1
+10/22/2025,Shashank,Rahul,0,1,1,MISS,0,1
+10/22/2025,Rohan,Shivam,1,2,1,FENCE,0,1
+10/22/2025,Rohan,Rahul,6,3,0,,1,1
+10/22/2025,Anurag K,Ishant,6,5,1,FENCE,1,1
+10/22/2025,Anurag S,Shivam,0,1,1,FENCE,0,1
+10/22/2025,Anurag S,Ishant,8,2,0,,2,1
+10/22/2025,Anjan,Anurag K,10,6,1,BOWLED,2,1
+10/22/2025,Virat,Rohan,0,2,1,OHOB,0,1
+10/22/2025,Ujjwal,Rohan,6,4,0,,1,1
+10/22/2025,Rahul,Anurag S,6,3,0,,1,1
+10/22/2025,Ujjwal,Anurag S,7,6,1,MISS,1,2
+10/22/2025,Ujjwal,Rohan,1,2,0,,0,2
+10/22/2025,Ujjwal,Anurag K,8,6,0,,1,2
+10/22/2025,Anjan,Rohan,0,1,1,FENCE,0,2
+10/22/2025,Ishant,Rohan,10,11,1,OHOB,1,2
+10/22/2025,Virat,Shashank,4,4,1,MISS,1,2
+10/22/2025,Rahul,Shashank,1,2,1,OHOB,0,2
+10/22/2025,Anurag K,Ishant,7,6,1,CATCH,1,2
+10/22/2025,Anurag K,Rahul,8,6,0,,1,2
+10/22/2025,Anurag S,Anjan,5,4,1,FENCE,1,2
+10/22/2025,Rohan,Anjan,4,2,0,,1,2
+10/22/2025,Shashank,Ishant,6,3,0,,1,2
+10/22/2025,Anjan,Rohan,2,6,1,FENCE,0,3
+10/22/2025,Ujjwal,Akash,0,1,1,CATCH,0,3
+10/22/2025,Ishant,Rohan,6,7,1,OHOB,1,3
+10/22/2025,Virat,Anurag S,0,1,1,FENCE,0,3
+10/22/2025,Virat,Shashank,9,3,0,,2,3
+10/22/2025,Virat,Akash,4,1,0,,1,3
+10/22/2025,Rahul,Anurag S,18,8,1,FENCE,4,3
+10/22/2025,Rahul,Anurag K,9,3,0,,2,3
+10/22/2025,Akash,Virat,11,6,1,OHOB,2,3
+10/22/2025,Anurag K,Rahul,2,4,1,BOWLED,0,3
+10/22/2025,Anurag K,Anjan,14,6,0,,3,3
+10/22/2025,Anurag S,Rahul,9,7,0,,1,3
+10/22/2025,Anurag S,Ishant,2,3,0,,0,3
+10/22/2025,Rohan,Ishant,4,2,1,BOWLED,1,3
+10/22/2025,Rohan,Rahul,4,1,0,,1,3
+10/22/2025,Shashank,Ishant,1,1,0,,0,3
+10/23/2025,Anurag K,Rohan,11,6,1,CATCH,2,4
+10/23/2025,Ishant,Rohan,1,2,1,MISS,0,4
+10/23/2025,Ishant,Sudhanshu,15,6,0,,3,4
+10/23/2025,Shivam,Rahul,8,8,1,CATCH,1,4
+10/23/2025,Shivam,Virat,5,3,0,,1,4
+10/23/2025,Shivam,Rohan,8,2,0,,2,4
+10/23/2025,Ujjwal,Rahul,0,2,1,MISS,0,4
+10/23/2025,Ujjwal,Rohan,9,6,0,,1,4
+10/23/2025,Akash,Rahul,0,2,1,BOWLED,0,4
+10/23/2025,Virat,Anurag K,1,2,1,CATCH,0,4
+10/23/2025,Sudhanshu,Ishant,12,5,1,BOWLED,3,4
+10/23/2025,Rohan,Anurag K,1,2,1,OHOB,0,4
+10/23/2025,Rohan,Ishant,15,7,0,,3,4
+10/23/2025,Rohan,Shivam,7,6,0,,1,4
+10/23/2025,Rahul,Anurag K,8,3,1,BOWLED,2,4
+10/23/2025,Ishant,Shivam,6,4,1,BOWLED,1,5
+10/23/2025,Rohan,Rahul,0,1,1,BOWLED,0,5
+10/23/2025,Anurag K,Rahul,0,1,1,FENCE,0,5
+10/23/2025,Anurag K,Shivam,5,2,0,,1,5
+10/23/2025,Akash,Rahul,4,2,1,BOWLED,1,5
+10/23/2025,Shivam,Rohan,4,2,1,FENCE,1,5
+10/23/2025,Virat,Rohan,12,3,0,,3,5
+10/23/2025,Virat,Ishant,5,3,0,,1,5
+10/23/2025,Ujjwal,Rohan,0,1,1,OHOB,0,5
+10/23/2025,Rahul,Rohan,0,2,1,MISS,0,5
+10/23/2025,Rahul,Ishant,0,1,1,CATCH,0,6
+10/23/2025,Ujjwal,Ishant,0,1,1,OHOB,0,6
+10/23/2025,Virat,Ishant,0,1,1,OHOB,0,6
+10/23/2025,Shivam,Ishant,0,1,1,CAUGHT,0,6
+10/23/2025,Akash,Virat,4,1,0,,1,6
+10/23/2025,Anurag K,Rahul,0,1,1,CATCH,0,7
+10/23/2025,Akash,Shivam,0,1,1,FENCE,0,7
+10/23/2025,Rohan,Rahul,10,7,1,CATCH,2,7
+10/23/2025,Ishant,Shivam,6,5,1,BOWLED,1,7
+10/23/2025,Virat,Rohan,9,3,0,,2,7
+10/23/2025,Shivam,Ishant,5,5,1,MISS,1,7
+10/23/2025,Rahul,Ishant,5,2,0,,1,7
+10/23/2025,Rahul,Rohan,19,9,0,,4,8
+10/23/2025,Rahul,Anurag K,9,3,0,,2,8
+10/23/2025,Rahul,Shivam,15,7,0,,3,8
+10/23/2025,Virat,Rohan,4,2,1,BOWLED,1,8
+10/23/2025,Virat,Anurag K,11,6,0,,2,8
+10/23/2025,Ishant,Rohan,5,4,1,BOWLED,1,8
+10/23/2025,Akash,Shivam,2,5,1,FENCE,0,8
+10/23/2025,Rohan,Ishant,13,4,0,,3,8
+10/23/2025,Rohan,Rahul,28,15,1,FENCE,5,8
+10/23/2025,Rohan,Virat,9,3,0,,2,8
+10/23/2025,Rohan,Shivam,2,3,0,,0,8
+10/23/2025,Anurag K,Ishant,4,2,1,FENCE,1,8
+10/23/2025,Ujjwal,Ishant,0,1,1,OHOB,0,8
+10/23/2025,Shivam,Ishant,1,2,1,FENCE,0,8
+10/26/2025,Anurag K,Rohan,27,12,1,FENCE,6,9
+10/26/2025,Shivam,Anurag S,0,3,1,MISS,0,9
+10/26/2025,Rahul,Anurag S,11,7,1,BOWLED,2,9
+10/26/2025,Akash,Rohan,0,1,1,MISS,0,9
+10/26/2025,Akash,Anurag S,3,3,0,,0,9
+10/26/2025,Akash,Sudhanshu,6,6,0,,1,9
+10/26/2025,Anurag S,Shivam,9,4,1,BOWLED,2,9
+10/26/2025,Virat,Rahul,9,4,1,CATCH,2,9
+10/26/2025,Virat,Shivam,1,1,0,,0,9
+10/26/2025,Sudhanshu,Shivam,2,3,1,BOWLED,0,9
+10/26/2025,Sudhanshu,Rahul,0,2,0,,0,9
+10/26/2025,Rohan,Rahul,6,5,1,STUMPED,1,9
+10/26/2025,Rohan,Shivam,6,4,0,,1,9
+10/26/2025,Rohan,Anurag K,9,7,0,,2,9
+10/26/2025,Rohan,Anurag K,12,8,1,OHOB,2,10
+10/26/2025,Anurag S,Anurag K,1,2,1,CATCH,0,10
+10/26/2025,Sudhanshu,Shivam,4,4,1,MISS,1,10
+10/26/2025,Sudhanshu,Anurag K,1,1,0,,0,10
+10/26/2025,Sudhanshu,Shashank,17,6,0,,4,10
+10/26/2025,Sudhanshu,Akash,9,3,0,,2,10
+10/26/2025,Virat,Anurag K,5,2,0,,1,10
+10/26/2025,Virat,Rahul,12,7,0,,2,10
+10/26/2025,Ishant,Shivam,8,6,1,OHOB,1,10
+10/26/2025,Anurag K,Sudhanshu,0,2,1,BOWLED,0,10
+10/26/2025,Anurag K,Ishant,14,6,0,,3,10
+10/26/2025,Anurag K,Rohan,14,6,0,,3,10
+10/26/2025,Akash,Anurag S,4,2,1,FENCE,1,10
+10/26/2025,Shashank,Rohan,1,4,1,MISS,0,10
+10/26/2025,Shashank,Anurag S,23,10,0,,5,10
+10/26/2025,Shashank,Sudhanshu,1,1,0,,0,10
+10/26/2025,Shivam,Sudhanshu,1,2,1,FENCE,0,10
+10/26/2025,Rahul,Sudhanshu,0,1,1,FENCE,0,10
+10/26/2025,Anurag K,Rohan,4,3,1,OHOB,1,11
+10/26/2025,Shivam,Ishant,9,6,1,MISS,2,11
+10/26/2025,Rahul,Rohan,11,7,1,BOWLED,2,11
+10/26/2025,Shashank,Ishant,0,1,1,FENCE,0,11
+10/26/2025,Akash,Ishant,1,2,1,OHOB,0,11
+10/26/2025,Rohan,Anurag K,12,6,1,MISS,3,11
+10/26/2025,Anurag S,Shashank,13,4,0,,3,11
+10/26/2025,Anurag K,Ishant,1,2,1,CATCH,0,12
+10/26/2025,Shivam,Ishant,0,1,1,FENCE,0,12
+10/26/2025,Shashank,Rohan,2,5,1,FENCE,0,12
+10/26/2025,Virat,Anurag S,1,1,1,BOWLED,0,12
+10/26/2025,Rahul,Anurag S,2,3,1,BOWLED,0,12
+10/26/2025,Anurag S,Rahul,0,2,1,MISS,0,12
+10/26/2025,Ishant,Shivam,0,1,1,BOWLED,0,12
+10/26/2025,Ishant,Rahul,6,4,0,,1,12
+10/26/2025,Virat,Shivam,12,3,0,,3,12
+10/26/2025,Shashank,Virat,18,7,0,,4,0
+10/26/2025,Shashank,Anurag K,0,2,1,FENCE,0,0
+10/26/2025,Sudhanshu,Virat,2,3,1,BOWLED,0,0
+7/3/2026,Anurag S,Ishant,0,1,1,FENCE,0,13
+7/3/2026,Shashank,Ishant,0,1,1,OHOB,0,13
+7/3/2026,Shashank,Anurag K,4,6,0,,0,13
+7/3/2026,Akash,Ishant,9,5,1,CATCH,1,13
+7/3/2026,Rohan,Anurag K,6,4,1,FENCE,1,13
+7/3/2026,Rohan,Ishant,1,1,0,,0,13
+7/3/2026,Rohan,Rahul,13,7,0,,2,13
+7/3/2026,Rohan,Sudhanshu,10,6,0,,2,13
+7/3/2026,Himanshu,Ishant,14,5,0,,3,13
+7/3/2026,Himanshu,Anurag K,0,1,1,BOWLED,0,13
+7/3/2026,Anurag K,Rohan,10,6,1,FENCE,2,13
+7/3/2026,Ishant,Himanshu,0,1,1,OHOB,0,13
+7/3/2026,Sudhanshu,Shashank,0,1,1,FENCE,0,13
+7/3/2026,Sudhanshu,Rohan,6,4,0,,1,13
+7/3/2026,Ujjwal,Anurag S,5,3,1,BOWLED,1,13
+7/3/2026,Ujjwal,Rohan,1,2,0,,0,13
+7/3/2026,Ujjwal,Himanshu,7,6,0,,1,13
+7/3/2026,Rahul,Anurag S,0,1,1,OHOB,0,13
+8/3/2026,Anurag K,Sudhanshu,2,4,1,MISS,0,14
+8/3/2026,Anurag K,Himanshu,14,6,0,,3,14
+8/3/2026,Shashank,Rahul,4,3,1,MISS,1,14
+8/3/2026,Akash,Rahul,4,3,1,FENCE,1,14
+8/3/2026,Anurag S,Rahul,4,3,1,MISS,1,14
+8/3/2026,Himanshu,Anurag S,5,3,1,FENCE,1,14
+8/3/2026,Ujjwal,Anurag K,0,2,1,MISS,0,14
+8/3/2026,Sudhanshu,Anurag S,8,3,1,FENCE,2,14
+8/3/2026,Rahul,Anurag K,10,5,0,,2,14
+8/3/2026,Rahul,Shashank,8,2,0,,2,14
+8/3/2026,Himanshu,Anurag S,5,4,1,MISS,1,15
+8/3/2026,Himanshu,Anurag K,12,6,0,,2,15
+8/3/2026,Ujjwal,Anurag K,3,4,1,BOWLED,0,15
+8/3/2026,Ujjwal,Akash,11,6,0,,2,15
+8/3/2026,Sudhanshu,Anurag S,2,4,1,FENCE,0,15
+8/3/2026,Sudhanshu,Shashank,14,6,0,,3,15
+8/3/2026,Rahul,Anurag S,4,2,1,OHOB,1,15
+8/3/2026,Rahul,Anurag K,4,2,0,,1,15
+8/3/2026,Anurag K,Himanshu,4,4,1,MISS,1,15
+8/3/2026,Shashank,Rahul,4,2,1,MISS,1,15
+8/3/2026,Anurag S,Sudhanshu,5,3,1,CAUGHT,1,15
+8/3/2026,Anurag S,Himanshu,4,2,0,,1,15
+8/3/2026,Akash,Rahul,4,3,1,MISS,1,15
+9/3/2026,Sudhanshu,Rohan,9,6,1,CATCH,2,16
+9/3/2026,Anurag K,Anurag S,8,4,1,MISS,2,16
+9/3/2026,Rahul,Anurag S,0,2,1,BOWLED,0,16
+9/3/2026,Himanshu,Rohan,14,9,1,OHOB,3,16
+9/3/2026,Himanshu,Anurag S,7,6,0,,1,16
+9/3/2026,Himanshu,Shashank,9,3,0,,2,16
+9/3/2026,Ujjwal,Anurag K,0,2,1,,0,16
+9/3/2026,Shashank,Anurag K,11,6,1,BOWLED,2,16
+9/3/2026,Shashank,Himanshu,9,6,0,,2,16
+9/3/2026,Anurag S,Rahul,0,1,1,FENCE,0,16
+9/3/2026,Anurag S,Anurag K,6,4,0,,1,16
+9/3/2026,Rohan,Sudhanshu,12,4,0,,3,16
+9/3/2026,Rohan,Rahul,10,6,0,,2,16
+3/9/2026,Ujjwal,Anurag K,5,4,1,BOWLED,1,17
+3/9/2026,Shashank,Rahul,0,2,1,MISS,0,17
+3/9/2026,Anurag S,Sudhanshu,0,2,1,MISS,0,17
+3/9/2026,Anurag S,Anurag K,5,2,0,,1,17
+3/9/2026,Rohan,Himanshu,9,4,1,FENCE,2,17
+3/9/2026,Rohan,Rahul,7,4,0,,1,17
+3/9/2026,Rohan,Sudhanshu,11,5,0,,2,17
+3/9/2026,Anurag K,Rohan,0,1,1,FENCE,0,17
+3/9/2026,Rahul,Rohan,0,1,1,BOWLED,0,17
+3/9/2026,Sudhanshu,Rohan,0,1,1,BOWLED,0,17
+3/9/2026,Himanshu,Rohan,1,2,1,BOWLED,0,17
+3/9/2026,Anurag K,Rohan,0,2,1,OHOB,0,18
+3/9/2026,Rahul,Rohan,0,1,1,MISS,0,18
+3/9/2026,Rahul,Anurag S,13,6,0,,3,18
+3/9/2026,Sudhanshu,Rohan,0,1,1,BOWLED,0,18
+3/9/2026,Himanshu,Rahul,6,5,1,OHOB,1,18
+3/9/2026,Anurag S,Rahul,10,6,0,,2,18
+3/9/2026,Anurag S,Anurag K,8,2,0,,2,18
+3/9/2026,Anurag S,Himanshu,2,2,0,,0,18
+3/9/2026,Shashank,Anurag K,0,1,1,BOWLED,0,18
+3/9/2026,Ujjwal,Anurag K,4,2,1,CATCH,1,18
+3/9/2026,Rohan,Anurag K,0,1,1,OHOB,0,18
+3/9/2026,Anurag S,Sudhanshu,8,3,1,FENCE,2,19
+3/9/2026,Anurag S,Himanshu,8,6,0,,1,19
+3/9/2026,Shashank,Anurag K,10,6,0,,2,19
+3/9/2026,Ujjwal,Rahul,0,1,1,MISS,0,19
+3/9/2026,Ujjwal,Sudhanshu,1,3,0,,0,19
+3/9/2026,Rohan,Anurag K,6,3,0,,1,19
+3/9/2026,Rohan,Rahul,10,8,0,,1,19
+3/9/2026,Himanshu,Rohan,5,4,1,FENCE,1,19
+3/9/2026,Anurag K,Anurag S,3,6,1,MISS,0,19
+3/9/2026,Rahul,Rohan,12,4,1,FENCE,3,19
+3/9/2026,Rahul,Anurag S,0,1,0,,0,19
+3/9/2026,Sudhanshu,Rohan,9,6,1,MISS,2,19
+3/9/2026,Sudhanshu,Anurag S,16,5,0,,4,19
+3/11/2026,Himanshu,Rohan,0,2,1,BOWLED,0,20
+3/11/2026,Rahul,Anurag S,1,2,1,OHOB,0,20
+3/11/2026,Sudhanshu,Rohan,1,3,1,MISS,0,20
+3/11/2026,Akash,Rohan,0,1,1,BOWLED,0,20
+3/11/2026,Shashank,Himanshu,1,4,0,,0,20
+3/11/2026,Akash,Rahul,4,1,0,,0,20
+3/11/2026,Anurag S,Himanshu,0,2,1,MISS,0,20
+3/11/2026,Rahul,Rohan,11,9,1,OHOB,2,21
+3/11/2026,Sudhanshu,Anurag S,4,2,1,FENCE,1,21
+3/11/2026,Himanshu,Rohan,26,8,0,,6,21
+3/11/2026,Himanshu,Anurag S,25,11,0,,5,21
+3/11/2026,Himanshu,Shashank,13,4,0,,3,21
+3/11/2026,Akash,Rohan,0,1,1,BOWLED,0,21
+3/11/2026,Rohan,Rahul,11,6,1,BOWLED,2,21
+3/11/2026,Rohan,Himanshu,15,9,0,,3,21
+3/11/2026,Rohan,Sudhanshu,5,2,0,,1,21
+3/11/2026,Shashank,Rahul,4,2,1,FENCE,1,21
+3/11/2026,Akash,Rahul,0,1,1,MISS,0,21
+3/11/2026,Anurag S,Rahul,5,3,1,MISS,1,21
+3/11/2026,Anurag S,Himanshu,9,4,0,,2,21
+3/11/2026,Anurag S,Sudhanshu,5,5,0,,1,21
+3/11/2026,Akash,Anurag S,4,3,1,MISS,1,22
+3/11/2026,Rahul,Rohan,4,2,1,OHOB,1,22
+3/11/2026,Sudhanshu,Rohan,0,1,1,FENCE,0,22
+3/11/2026,Himanshu,Rohan,26,12,0,,5,22
+3/11/2026,Himanshu,Anurag S,19,9,0,,4,22
+3/11/2026,Himanshu,Shashank,9,4,0,,2,22
+3/11/2026,Ishant,Himanshu,1,2,1,OHOB,0,22
+3/11/2026,Ishant,Sudhanshu,12,6,0,,3,22
+3/11/2026,Rohan,Himanshu,0,1,1,BOWLED,0,22
+3/11/2026,Shashank,Himanshu,1,2,1,FENCE,0,22
+3/11/2026,Anurag S,Himanshu,0,1,1,CAUGHT,0,22
+3/11/2026,Ishant,Akash,6,4,1,OHOB,1,23
+3/11/2026,Ishant,Rahul,18,6,0,,4,23
+3/11/2026,Ishant,Sudhanshu,4,5,0,,0,23
+3/11/2026,Ishant,Himanshu,5,2,0,,1,23
+3/11/2026,Rohan,Himanshu,8,7,1,BOWLED,1,23
+3/11/2026,Rohan,Sudhanshu,4,1,0,,1,23
+3/11/2026,Anurag S,Himanshu,1,2,1,OHOB,0,23
+3/11/2026,Shashank,Akash,0,1,1,OHOB,0,23
+3/11/2026,Shashank,Himanshu,1,2,0,,0,23
+3/11/2026,Rahul,Ishant,0,1,1,OHOB,0,23
+3/11/2026,Akash,Rohan,17,7,1,FENCE,4,23
+3/11/2026,Akash,Ishant,5,3,0,,1,23
+3/11/2026,Sudhanshu,Anurag S,1,2,1,OHOB,0,23
+3/11/2026,Sudhanshu,Rohan,2,2,0,,0,23
+3/11/2026,Sudhanshu,Ishant,2,2,0,,0,23
+3/11/2026,Himanshu,Rohan,0,1,1,FENCE,0,23
+3/11/2026,Himanshu,Anurag S,16,4,0,,4,23
+3/12/2026,Rahul,Rohan,35,18,1,FENCE,7,24
+3/12/2026,Akash,Sudhanshu,0,1,1,OHOB,0,24
+3/12/2026,Shashank,Sudhanshu,4,3,1,BOWLED,1,24
+3/12/2026,Himanshu,Rohan,0,1,1,OHOB,0,24
+3/12/2026,Himanshu,Anurag S,21,6,0,,5,24
+3/12/2026,Himanshu,Sudhanshu,19,9,0,,3,24
+3/12/2026,Rohan,Akash,5,3,1,FENCE,1,24
+3/12/2026,Rohan,Himanshu,12,6,0,,2,24
+3/12/2026,Anurag S,Rahul,0,2,1,MISS,0,24
+3/12/2026,Sudhanshu,Rahul,0,2,1,MISS,0,24
+3/12/2026,Shashank,Rahul,0,2,1,MISS,0,24
+3/12/2026,Rahul,Rohan,16,10,1,MISS,3,25
+3/12/2026,Akash,Anurag S,1,2,1,BOWLED,0,25
+3/12/2026,Himanshu,Sudhanshu,10,6,1,OHOB,2,25
+3/12/2026,Himanshu,Anurag S,12,4,0,,3,25
+3/12/2026,Shashank,Rohan,1,2,1,CATCH,0,25
+3/12/2026,Anurag S,Rahul,0,2,1,MISS,0,25
+3/12/2026,Anurag S,Himanshu,10,6,0,,2,25
+3/12/2026,Shashank,Rahul,4,3,1,BOWLED,1,25
+3/12/2026,Rohan,Rahul,4,1,0,,1,25
+3/12/2026,Rohan,Himanshu,8,5,0,,1,25
+3/12/2026,Rohan,Akash,8,2,0,,2,25
+3/12/2026,Sudhanshu,Himanshu,4,1,0,,1,25
+3/12/2026,Sudhanshu,Akash,5,4,0,,1,25
+3/12/2026,Himanshu,Rohan,11,7,1,BOWLED,2,26
+3/12/2026,Rahul,Anurag S,6,6,1,BOWLED,1,26
+3/12/2026,Akash,Rohan,2,3,0,,0,26
+3/12/2026,Shashank,Rohan,1,2,0,,0,26
+3/12/2026,Sudhanshu,Rahul,0,1,1,BOWLED,0,26
+3/12/2026,Rohan,Himanshu,0,1,1,BOWLED,0,26
+3/12/2026,Shashank,Rahul,9,6,1,OHOB,2,26
+3/12/2026,Shashank,Himanshu,1,2,0,,0,26
+3/12/2026,Anurag S,Himanshu,5,3,1,CATCH,1,26
+3/14/2026,Shivam,Ishant,10,6,1,OHOB,2,27
+3/14/2026,Anurag K,Ishant,4,2,1,BOWLED,1,27
+3/14/2026,Anurag K,Anurag S,12,7,0,,2,27
+3/14/2026,Sudhanshu,Rohan,10,6,1,FENCE,2,27
+3/14/2026,Sudhanshu,Ishant,4,1,0,,1,27
+3/14/2026,Himanshu,Rohan,4,2,1,BOWLED,1,27
+3/14/2026,Himanshu,Ishant,4,1,0,,1,27
+3/14/2026,Ujjwal,Rohan,0,2,0,,0,27
+3/14/2026,Rahul,Anurag S,1,2,1,BOWLED,0,27
+3/14/2026,Shashank,Himanshu,1,3,1,OHOB,0,27
+3/14/2026,Ujjwal,Shivam,0,2,1,MISS,0,27
+3/14/2026,Anurag S,Sudhanshu,0,1,1,BOWLED,0,27
+3/14/2026,Anurag S,Himanshu,9,4,0,,2,27
+3/14/2026,Anurag S,Shivam,0,1,0,,0,27
+3/14/2026,Anurag S,Anurag K,10,4,0,,2,27
+3/14/2026,Akash,Shivam,0,1,1,OHOB,0,27
+3/14/2026,Rohan,Shivam,0,1,1,FENCE,0,27
+3/14/2026,Ishant,Shivam,1,1,0,,0,27
+3/14/2026,Rahul,Anurag S,10,7,1,OHOB,2,28
+3/14/2026,Anurag K,Rohan,0,1,1,BOWLED,0,28
+3/14/2026,Ujjwal,Rohan,4,3,1,BOWLED,1,28
+3/14/2026,Sudhanshu,Ishant,4,3,1,OHOB,1,28
+3/14/2026,Sudhanshu,Rohan,1,2,0,,0,28
+3/14/2026,Himanshu,Ishant,5,3,1,OHOB,1,28
+3/14/2026,Himanshu,Anurag S,22,7,0,,5,28
+3/14/2026,Himanshu,Rohan,17,7,0,,3,28
+3/14/2026,Shivam,Ishant,10,6,1,OHOB,2,28
+3/14/2026,Rohan,Himanshu,2,3,1,BOWLED,0,28
+3/14/2026,Ishant,Shivam,5,3,1,OHOB,1,28
+3/14/2026,Ishant,Anurag K,9,3,0,,2,28
+3/14/2026,Ujjwal,Rahul,5,4,1,MISS,1,28
+3/14/2026,Shashank,Himanshu,0,1,1,CATCH,0,28
+3/14/2026,Anurag S,Himanshu,1,2,1,BOWLED,0,28
+3/14/2026,Akash,Rahul,0,1,1,BOWLED,0,28
+3/14/2026,Ishant,Shivam,25,15,1,BOWLED,4,29
+3/14/2026,Ishant,Anurag S,10,6,0,,2,29
+3/14/2026,Ujjwal,Anurag K,1,2,1,MISS,0,29
+3/14/2026,Akash,Rahul,0,2,1,MISS,0,29
+3/14/2026,Akash,Anurag K,5,3,0,,1,29
+2026-03-14,Rohan,Rahul,6,4,0,,1,29
+2026-03-14,Rohan,Sudhanshu,10,5,0,,2,29
+2026-03-14,Himanshu,Shivam,4,1,0,,1,29
+2026-03-14,Himanshu,Shashank,0,1,1,FENCE,0,29
+2026-03-14,Anjan,Shashank,5,3,1,FENCE,1,29
+2026-03-14,Sudhanshu,Himanshu,8,5,1,CATCH,2,29
+2026-03-14,Anurag K,Rohan,5,3,1,OHOB,1,29
+2026-03-14,Rahul,Rohan,1,2,1,BOWLED,0,29
+2026-03-14,Rahul,Himanshu,24,11,0,,5,29
+2026-03-14,Shivam,Rohan,8,5,1,BOWLED,2,29
+2026-03-14,Anurag S,Rohan,13,5,0,,3,29
+2026-03-14,Anurag S,Himanshu,6,3,0,,1,29
+2026-03-14,Shashank,Rohan,0,1,0,,0,29
+2026-03-14,Ujjwal,Rohan,0,2,1,MISS,0,0
+2026-03-14,Ishant,Shivam,0,1,1,OHOB,0,0
